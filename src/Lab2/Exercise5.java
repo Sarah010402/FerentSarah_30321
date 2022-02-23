@@ -7,6 +7,7 @@ public class Exercise5 {
         int n, i, j, aux;
         Scanner input = new Scanner(System.in);
 
+
         System.out.println("N =");
         n = input.nextInt();
         int a[] = new int[n];

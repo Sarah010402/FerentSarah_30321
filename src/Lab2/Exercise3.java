@@ -12,6 +12,7 @@ public class Exercise3 {
         System.out.print("b =");
         int b = Integer.parseInt(x.readLine());
 
+
         int d = 0,k = 0, i, j;
         for(i = a; i <= b; i++) {
             for(j = 1; j <= i; j++) {

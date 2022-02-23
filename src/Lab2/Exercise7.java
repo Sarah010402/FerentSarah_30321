@@ -28,4 +28,5 @@ public class Exercise7 {
             x--;
             a = Integer.parseInt(br.readLine());
     }}
+
 }}

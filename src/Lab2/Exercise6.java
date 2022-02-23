@@ -24,6 +24,7 @@ public class Exercise6 {
         }
         System.out.println("N!= " + s);
 /*
+
         s = factorial(n);
         System.out.println("N!=" + s);*/
 

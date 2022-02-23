@@ -10,6 +10,7 @@ public class Exercise4 {
         BufferedReader x = new BufferedReader(new InputStreamReader(System.in));
         Scanner input = new Scanner(System.in);
 
+
         System.out.print("N=");
         int N = input.nextInt();
         int a [] = new int [N];
